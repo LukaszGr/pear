@@ -1,15 +1,15 @@
 # :pear: Pear
 
-_Pear is a responsive web application that enables developers to find other like-minded developers to pair program with, based on shared skillsets, and projects they are both passionate about._
+_Pear_ is a responsive web application that enables developers to find other like-minded developers to pair program with, based on shared skillsets, and projects they are both passionate about.
 
 ## Roadmap
 
-Completed:
+**Completed:**
 * Users can sign in with GitHub
 * Users can edit their profiles, add tags (skills) and projects
 * Users can swipe left and right or click Yes or No on other users
 
-In the pipeline:
+**In the pipeline:**
 * Users shouldn't be able to swipe their own card
 * Users shouldn't be able to swipe cards they've swiped already
 * Use the information from the likes table to enable matching functionality
